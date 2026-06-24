@@ -65,7 +65,7 @@ export default function WatchEditorial() {
           playsInline
           className="absolute inset-0 h-full w-full object-cover scale-110"
         >
-          <source src="/show111.mp4" type="video/mp4" />
+          <source src="/show11.mp4" type="video/mp4" />
         </video>
 
         <div className="absolute inset-0 bg-black/20 z-10" />
