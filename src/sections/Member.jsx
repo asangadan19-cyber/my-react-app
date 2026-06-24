@@ -126,8 +126,8 @@ export default function PrestigeStrideMembership() {
           <div className="mt-16 grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
             <div className="relative overflow-hidden rounded-[32px] border border-white/10 bg-white/[0.03] backdrop-blur-xl h-[520px] group">
               <img
-                src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1600&auto=format&fit=crop"
-                alt="Luxury leather shoe"
+                src="/shoe26.jpg"
+alt="shoe"
                 className="h-full w-full object-cover opacity-80 group-hover:scale-105 transition duration-1000"
               />
 
