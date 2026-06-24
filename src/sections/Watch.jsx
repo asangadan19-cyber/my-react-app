@@ -31,7 +31,7 @@ export default function WatchEditorial() {
       description:
         "A cinematic journey through timeless leather craftsmanship and executive elegance.",
       image: "/shoe24.jpg",
-      video: "/show111.mp4",
+      video: "/show11.mp4",
     },
     {
       title: "Executive Motion",
